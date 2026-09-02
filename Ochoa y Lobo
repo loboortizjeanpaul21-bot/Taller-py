@@ -1,0 +1,6 @@
+#Respuestas
+#1 input() 
+#2 devuelve siempre cadenas de texto (str)
+#3 la diferencia es que int() es para convertir a numeros enteros, y float() es para convertir a numeros decimales 
+#5 sirve para unir dos o mas cadenas de texto en una sola
+#6 / sirve para numeros decimales exactos, y // sirve para que el decimal se redondee 
